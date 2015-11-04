@@ -5,6 +5,6 @@ Welcome to my page! I am excited to share my project with you all. Of course I n
 
 I did have to run this on a localhost to avoid Cross Origin Errors with the AngularJS. 
 
-Thanks again for this opportunity.
+Thanks again for this opportunity,
 
 Priscilla Vazquez
