@@ -1,2 +1,2 @@
-# MLBScorboard
+# MLBScoreboard
 ESPN Web Developer Code Project
